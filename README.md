@@ -4,7 +4,7 @@ CN: https://www.infoq.cn/article/tgurwxuivdr1txxp390i
 
 1. 了解 DevOps 文化
 
-2. 学习 Linix 系统
+2. 学习 Linux 系统
 
   Red Hat Enterprise Linux (RHEL)
 
